@@ -9,7 +9,7 @@
 ## code: https://github.com/nicejjss/cms
 
 # DOTS - FrontEnd: HTML, CSS, JS
-## demo: https://dots-sage.vercel.app/
+## demo: [https://dots-sage.vercel.app/](https://dots-beta.vercel.app/)
 ## code: https://github.com/nicejjss/DOTS
 
 <a href="https://app.daily.dev/locdao"><img src="https://api.daily.dev/devcards/v2/zcDoFl5rLFU2oOvTzyAMX.png?type=wide&r=hfs" width="652" alt="Loc Dao's Dev Card"/></a>
